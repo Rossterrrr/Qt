@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/levelClear2.png</file>
+        <file>images/levelClear3.png</file>
+        <file>images/L2_2.png</file>
+        <file>images/clear1.png</file>
+        <file>images/clear2.png</file>
+        <file>images/clear3.png</file>
+        <file>images/clear4.png</file>
+        <file>images/clear5.png</file>
+        <file>images/levelClear4.png</file>
+        <file>images/levelClear5_2.png</file>
+        <file>images/SECLOGO.png</file>
+    </qresource>
+</RCC>
