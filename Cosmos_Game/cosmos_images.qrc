@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cosmoslogo.png</file>
+        <file>images/splash2.png</file>
+        <file>images/Background1.png</file>
+        <file>images/sprite.png</file>
+        <file>images/playerStop.png</file>
+        <file>images/ground1.png</file>
+        <file>images/Background2.png</file>
+        <file>images/scene1.png</file>
+        <file>images/stars.png</file>
+        <file>images/clear1.png</file>
+        <file>images/scene2.png</file>
+    </qresource>
+</RCC>
