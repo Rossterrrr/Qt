@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/logo.png</file>
+        <file>images/dna.png</file>
+        <file>images/options.png</file>
+        <file>images/about.png</file>
+        <file>images/dna-sprite2.png</file>
+        <file>images/minimize.png</file>
+        <file>images/gear75.png</file>
+        <file>images/gear50.png</file>
+        <file>images/gear40.png</file>
+    </qresource>
+</RCC>
