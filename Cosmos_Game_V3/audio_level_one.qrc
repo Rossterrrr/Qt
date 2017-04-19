@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>audio/levelOne.mp3</file>
-    </qresource>
-</RCC>
