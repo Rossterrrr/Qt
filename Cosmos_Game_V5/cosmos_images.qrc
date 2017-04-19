@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cosmoslogo.png</file>
+        <file>images/splash2.png</file>
+        <file>images/Background1.png</file>
+        <file>images/sprite.png</file>
+        <file>images/ground1.png</file>
+        <file>images/Background2.png</file>
+        <file>images/scene1.png</file>
+        <file>images/stars.png</file>
+        <file>images/clear1.png</file>
+        <file>images/scene2.png</file>
+        <file>images/playerstop.png</file>
+        <file>images/platform.png</file>
+        <file>images/alien2.png</file>
+        <file>images/bullet.png</file>
+        <file>images/shoot.png</file>
+        <file>images/runWithGun.png</file>
+        <file>images/crouch.png</file>
+        <file>images/lefteye.png</file>
+        <file>images/righteye.png</file>
+        <file>images/pr.png</file>
+        <file>images/alienpodu.png</file>
+        <file>images/rock.png</file>
+        <file>images/wepontypebox.png</file>
+        <file>font/nasalization-rg.ttf</file>
+    </qresource>
+</RCC>
