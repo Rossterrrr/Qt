@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/logo.png</file>
+        <file>images/dna.png</file>
+        <file>images/options.png</file>
+        <file>images/about.png</file>
+        <file>images/dna-sprite2.png</file>
+        <file>images/minimize.png</file>
+        <file>images/dgear15.png</file>
+        <file>images/textOne.png</file>
+        <file>images/threatText.png</file>
+        <file>images/textTwo.png</file>
+        <file>images/logo2.png</file>
+        <file>images/closeButton.png</file>
+        <file>data/viruslist.txt</file>
+        <file>images/dna2.png</file>
+        <file>images/staticdna.png</file>
+    </qresource>
+</RCC>
